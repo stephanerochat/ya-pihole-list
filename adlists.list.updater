@@ -16,8 +16,8 @@ https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 https://justdomains.github.io/blocklists/lists/adguarddns-justdomains.txt
 # YouTube ads
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
-# Spotify ads
-https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
+# Spotify ads (disabled)
+# https://raw.githubusercontent.com/dfederlein/dnsbl-dfed/master/spotifyads.txt
 # Spam 404
 https://raw.githubusercontent.com/hectorm/hmirror/master/data/spam404.com/list.txt
 # AdAway
@@ -42,3 +42,5 @@ https://mirror1.malwaredomains.com/files/justdomains
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
 # spam mails (phishing)
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
+# Someone Who Cares
+https://someonewhocares.org/hosts/zero/hosts
