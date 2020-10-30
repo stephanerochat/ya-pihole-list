@@ -26,6 +26,8 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-A
 https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/spam.mails
 # Someone Who Cares
 https://someonewhocares.org/hosts/zero/hosts
+# Win 10 Telemetry
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Win10Telemetry
 
 # malicious
 #https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
